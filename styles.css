@@ -18,8 +18,7 @@ body {
     display: flex;
     align-items: center;
     height: 569px;
-    width: 63%;
-    position: relative;
+    max-width:100%;
 }
 
 .paragraph {
@@ -60,8 +59,6 @@ img {
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
     width: 345px;
-    right: -170px;
-    position: absolute;
 }
 
 .right-side {
