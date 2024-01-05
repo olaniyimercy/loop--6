@@ -56,9 +56,13 @@ img {
 }
 
 .left-side {
+    background-image: url(../img/side.jpg);
+    background-size: cover;
+    background-position: center;
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
     width: 345px;
+    height: 517px;
 }
 
 .right-side {
